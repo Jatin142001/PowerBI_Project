@@ -4,20 +4,18 @@
 This Power BI dashboard provides a detailed analysis of mobile sales data, offering insights into sales performance, customer behavior, and transaction trends. The interactive visualizations allow users to track key metrics, compare brand performances, and analyze payment methods efficiently.
 
 ##  Key Performance Indicators (KPIs)
-✔ Total Sales
-✔ Total Quantity Sold
-✔ Total Transactions
-✔ Average Selling Price Per Unit.
-✔ Sales Trends: Monthly & quarterly patterns for tracking performance.
-✔ Sales by Location: City-wise sales breakdown using an interactive map.
-✔ Brand-Wise Performance.
-✔ Mobile Model Insights: Revenue contribution from top-selling models.
-✔ Customer Ratings Analysis: Breakdown of customer reviews (Good, Average, Poor).
-✔ Payment Method Breakdown: Sales distribution across UPI, Debit Card, Credit Card, and Cash.
-✔ Sales by Day & Week: Identifying peak sales days for better planning.
-✔ Year-over-Year Performance: Comparison with previous years for trend analysis.
-
-
+1. Total Sales
+2. Total Quantity Sold
+3. Total Transactions
+4. Average Selling Price Per Unit.
+5. Sales Trends: Monthly & quarterly patterns for tracking performance.
+6. Sales by Location: City-wise sales breakdown using an interactive map.
+7. Brand-Wise Performance.
+8. Mobile Model Insights: Revenue contribution from top-selling models.
+9. Customer Ratings Analysis: Breakdown of customer reviews (Good, Average, Poor).
+10. Payment Method Breakdown: Sales distribution across UPI, Debit Card, Credit Card, and Cash.
+11. Sales by Day & Week: Identifying peak sales days for better planning.
+12. Year-over-Year Performance: Comparison with previous years for trend analysis.
 
 ##  Power BI Features Used
 1. Power Query: Data transformation and cleaning for accurate reporting.
