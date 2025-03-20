@@ -3,7 +3,7 @@
 ##  Project Overview
 This Power BI dashboard provides a detailed analysis of mobile sales data, offering insights into sales performance, customer behavior, and transaction trends. The interactive visualizations allow users to track key metrics, compare brand performances, and analyze payment methods efficiently.
 
-##  Key Performance Indicators (KPIs)
+##  Key Objectives
 1. Total Sales
 2. Total Quantity Sold
 3. Total Transactions
