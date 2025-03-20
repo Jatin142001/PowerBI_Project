@@ -33,4 +33,4 @@ This Power BI dashboard provides a detailed analysis of mobile sales data, offer
 5. Assists in identifying high-sales locations for targeted marketing.
 
 ## Conclusion
-### The Mobile Sales Dashboard in Power BI provides a clear, data-driven view of sales performance, customer preferences, and market trends. It helps businesses track revenue, analyze top brands, and optimize decision-making. With interactive visualizations and KPI tracking, this project enhances sales insights and improves strategic planning.
+The Mobile Sales Dashboard in Power BI provides a clear, data-driven view of sales performance, customer preferences, and market trends. It helps businesses track revenue, analyze top brands, and optimize decision-making. With interactive visualizations and KPI tracking, this project enhances sales insights and improves strategic planning.
